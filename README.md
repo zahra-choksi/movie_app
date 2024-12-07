@@ -1,4 +1,4 @@
-# movie_app
+
 # Movie_App: A Sample Movie Application
 
 ## Overview
